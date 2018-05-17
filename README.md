@@ -3,3 +3,4 @@
 
 ##Thierry
 faccio parte del reparto informatica 
+aggiunto da rict
